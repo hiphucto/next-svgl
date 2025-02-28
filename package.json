@@ -12,9 +12,22 @@
     "dev": "ts-node src/index.ts",
     "link": "pnpm build && pnpm link"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "cli",
+    "typescript",
+    "svg",
+    "tool"
+  ],
+  "author": "Phuc To <hi@phuc.to>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiphucto/next-svgl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hiphucto/next-svgl/issues"
+  },
+  "homepage": "https://github.com/hiphucto/next-svgl",
   "packageManager": "pnpm@10.5.2",
   "devDependencies": {
     "@eslint/js": "^9.21.0",
